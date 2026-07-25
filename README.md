@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/2f18bfcc-b602-4a2e-bd2e-7f5b8d730476.gif" alt="Pixel art coding scene" width="100%" style="image-rendering: pixelated;"/>
+  <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" alt="Pixel art gamer scene" width="100%" style="image-rendering: pixelated;"/>
 </p>
 
 ## 👋 About Me
