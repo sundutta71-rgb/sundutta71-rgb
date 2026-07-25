@@ -15,8 +15,8 @@
 </p>
 
 ## 👋 About Me
-- 🎓 I'm a student currently learning software development
-- 🌱 Currently sharpening my skills in **C, Python, Java, HTML & JavaScript**
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI/ML)
+- 🌱 Still learning and sharpening my skills in **C, Python, Java, HTML & JavaScript**
 - 🤖 I build with the help of tools like **Claude, ChatGPT, GitHub Copilot & Google Colab**
 - 🎮 Outside of coding, I love **gaming**, **drawing**, and **watching movies**
 - 📫 Reach me at **sundutta71@gmail.com**
