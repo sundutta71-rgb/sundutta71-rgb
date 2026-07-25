@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding animation" width="500"/>
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/2f18bfcc-b602-4a2e-bd2e-7f5b8d730476.gif" alt="Pixel art coding scene" width="100%" style="image-rendering: pixelated;"/>
 </p>
 
 ## 👋 About Me
