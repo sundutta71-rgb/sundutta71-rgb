@@ -21,6 +21,10 @@
 - 🎮 Outside of coding, I love **gaming**, **drawing**, and **watching movies**
 - 📫 Reach me at **sundutta71@gmail.com**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sundutta71-rgb/sundutta71-rgb/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+</p>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/sundutta71-rgb">
